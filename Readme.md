@@ -4,10 +4,10 @@
 
 ## Content
 >
-*Homepage.
-*aboutme.
-*Projects.
-*Contact me.
+* Homepage.
+* aboutme.
+* Projects.
+* Contact me.
 
 
 
